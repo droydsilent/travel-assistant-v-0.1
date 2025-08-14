@@ -1,0 +1,180 @@
+2025-08-14 03:05:24,305 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 03:07:41,984 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 03:09:46,645 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 03:09:49,179 - llm - INFO - LLM response: {
+  "destination": "Bengaluru",
+  "reason": "Great destination for food lovers with diverse street food options.",
+  "budget": "Moderate",
+  "tips": [
+    "Explore local street food markets for authentic flavors.",
+    "Try regional specialties and don't hesitate to ask locals for recommendations.",
+    "Consider joining food tours to discover hidden gems."
+  ],
+  "hotel": null,
+  "flight": null,
+  "experience": {
+    "name": "Gourmet Street Food Safari in Malleshwaram",
+    "city": "Bengaluru",
+    "price": 100.0,
+    "duration": "3"
+  }
+}
+2025-08-14 03:11:47,564 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 03:11:50,108 - llm - INFO - LLM response: {
+  "destination": "Toronto",
+  "reason": "Great city with fun activities for families.",
+  "budget": "Moderate",
+  "tips": [
+    "Visit the Toronto Islands for a day of adventure.",
+    "Explore family-friendly attractions in the city.",
+    "Plan your trip during the summer for the best weather."
+  ],
+  "hotel": null,
+  "flight": null,
+  "experience": {
+    "name": "Toronto Islands Leisure Escape",
+    "city": "Toronto",
+    "price": 75.0,
+    "duration": "4 hours"
+  }
+}
+2025-08-14 03:12:23,174 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 03:12:26,007 - llm - INFO - LLM response: {
+  "destination": "Montego Bay",
+  "reason": "Great hotel for relaxing",
+  "budget": "High",
+  "tips": [
+    "Book a spa treatment for ultimate relaxation.",
+    "Enjoy the local beaches for a serene experience.",
+    "Try the local cuisine at nearby restaurants."
+  ],
+  "hotel": null,
+  "flight": null,
+  "experience": {
+    "name": "Luxury Spa & Wellness Retreat",
+    "city": "Montego Bay",
+    "price": 250.0,
+    "duration": "6"
+  }
+}
+2025-08-14 03:13:13,850 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 03:13:16,594 - llm - INFO - LLM response: {
+  "destination": "Orlando",
+  "reason": "A city break with a hotel packed with activities",
+  "budget": "Moderate",
+  "tips": [
+    "Explore local attractions and theme parks.",
+    "Take advantage of wellness experiences.",
+    "Plan your itinerary to include both relaxation and adventure."
+  ],
+  "hotel": null,
+  "flight": null,
+  "experience": {
+    "name": "Orlando Luxury Spa Retreat",
+    "city": "Orlando",
+    "price": 200.0,
+    "duration": "6"
+  }
+}
+2025-08-14 03:13:59,744 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 03:14:04,561 - llm - INFO - LLM response: {
+  "destination": "New York",
+  "reason": "A vibrant city known for its iconic skyline and cultural diversity.",
+  "budget": "Moderate",
+  "tips": [
+    "Explore Central Park for a relaxing day outdoors.",
+    "Visit the Metropolitan Museum of Art for a dose of culture.",
+    "Try local food at food trucks and small eateries."
+  ],
+  "hotel": null,
+  "flight": {
+    "airline": "Virgin Atlantic",
+    "from_airport": "London",
+    "to_airport": "New York",
+    "price": 200,
+    "duration": "PT8H00M",
+    "date": "2025-07-30"
+  },
+  "experience": null
+}
+2025-08-14 03:14:33,469 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 03:14:35,490 - llm - INFO - LLM response: {
+  "destination": "New York",
+  "reason": "Good hotel with a pool and fun activities",
+  "budget": "Moderate",
+  "tips": [
+    "Explore the local attractions and entertainment options.",
+    "Make sure to enjoy the hotel's swimming pool.",
+    "Check out nearby restaurants for a variety of dining experiences."
+  ],
+  "hotel": {
+    "name": "New York New York",
+    "city": "Las Vegas",
+    "price_per_night": 287,
+    "rating": 3.5
+  },
+  "flight": null,
+  "experience": null
+}
+2025-08-14 03:14:56,234 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 03:14:59,847 - llm - INFO - LLM response: {
+  "destination": "New York",
+  "reason": "Exciting city with vibrant culture and activities.",
+  "budget": "High",
+  "tips": [
+    "Explore Central Park for outdoor activities.",
+    "Visit Times Square for entertainment and dining.",
+    "Check out local museums for cultural experiences."
+  ],
+  "hotel": {
+    "name": "Virgin Hotels New York City",
+    "city": "New York",
+    "price_per_night": 357,
+    "rating": 5.0
+  },
+  "flight": {
+    "airline": "Not available",
+    "from_airport": "London",
+    "to_airport": "New York",
+    "price": "Not available",
+    "duration": "Not available",
+    "date": "Not available"
+  },
+  "experience": {
+    "name": "Not available",
+    "city": "Not available",
+    "price": "Not available",
+    "duration": "Not available"
+  }
+}
+2025-08-14 03:19:19,631 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 03:19:23,290 - llm - INFO - LLM response: {
+  "destination": "New York",
+  "reason": "Exciting city with vibrant culture and activities.",
+  "budget": "High",
+  "tips": [
+    "Explore Central Park for outdoor activities.",
+    "Visit Times Square for entertainment and dining.",
+    "Check out local museums for cultural experiences."
+  ],
+  "hotel": {
+    "name": "Virgin Hotels New York City",
+    "city": "New York",
+    "price_per_night": 357,
+    "rating": 5.0
+  },
+  "flight": {
+    "airline": "Not available",
+    "from_airport": "London",
+    "to_airport": "New York",
+    "price": "Not available",
+    "duration": "Not available",
+    "date": "Not available"
+  },
+  "experience": {
+    "name": "Not available",
+    "city": "Not available",
+    "price": "Not available",
+    "duration": "Not available"
+  }
+}
