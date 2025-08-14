@@ -1,8 +1,7 @@
-# app/main.py
 from fastapi import FastAPI, HTTPException
-from schemas import TravelQuery, TravelAdvice
+from .schemas import TravelQuery, TravelAdvice
 from dotenv import load_dotenv
-from retriever import generate_travel_advice
+from .retriever import generate_travel_advice
 
 load_dotenv()
 app = FastAPI(title="Virgin Atlantic GenAI Travel Assistant")

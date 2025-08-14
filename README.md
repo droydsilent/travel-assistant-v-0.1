@@ -18,7 +18,7 @@ Once activated to install the relevant packages please run the following command
 pip install -r requirements.txt 
 
 To start the application run the following command:
-uvicorn main:app --reload
+uvicorn app.main:app --reload
 
 
 

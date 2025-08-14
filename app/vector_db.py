@@ -2,10 +2,10 @@ import os
 import faiss
 import numpy as np
 import json
-from services.logger_setup import get_logger
+from .services.logger_setup import get_logger
 from typing import Dict, List, Any
 import re
-from schemas import *
+from .schemas import *
 import openai
 from collections import defaultdict
 

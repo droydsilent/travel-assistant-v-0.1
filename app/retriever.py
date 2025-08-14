@@ -1,10 +1,10 @@
 from typing import Any, Dict
 from pydantic import ValidationError
-from schemas import TravelAdvice, TravelQuery
-from llm import call_llm_with_seed
-from guardrails import enforce
-from vector_db import load_index, load_travel_items, topk_per_category, query_emb
-from services.logger_setup import get_logger
+from .schemas import TravelAdvice, TravelQuery
+from .llm import call_llm_with_seed
+from .guardrails import enforce
+from .vector_db import load_index, load_travel_items, topk_per_category, query_emb
+from .services.logger_setup import get_logger
 
 logger = get_logger(__name__)
 

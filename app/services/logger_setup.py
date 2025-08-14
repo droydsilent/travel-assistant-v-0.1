@@ -9,7 +9,7 @@ def get_logger(name: str):
         console_handler = logging.StreamHandler()
         console_handler.setLevel(logging.DEBUG)
 
-        file_handler = logging.FileHandler("logs/app.log")
+        file_handler = logging.FileHandler("app/logs/app.log")
         file_handler.setLevel(logging.INFO)
 
         formatter = logging.Formatter(
