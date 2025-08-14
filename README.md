@@ -1,4 +1,4 @@
-Instruction to run:
+Instructions to run:
 ===================
 
 Please make sure that your .env file is set with the following variables:
