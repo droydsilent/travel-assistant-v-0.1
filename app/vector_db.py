@@ -64,18 +64,31 @@ def pick_city(*vals) -> str:
     return "Unknown"
 
 
-def query_emb(query):
+def query_emb(q):
     # query = "romantic hotel with sea view and spa in dubai with some activities, flight from london"
-    query_vec = openai.embeddings.create(
+    q_v = openai.embeddings.create(
         model="text-embedding-3-small",
-        input=query
+        input=q
     ).data[0].embedding
-    query_vec = np.array(query_vec, dtype="float32")
+    query_vec = np.array(q_v, dtype="float32")
+    logger.info(f"query vector: {query_vec}")
     return query_vec
 
 
 def top1_per_category(index, items, query_vec, pool=120) -> Dict:
+    # `top1_per_category` is a function that takes an FAISS index, a list of items, a query vector,
+    # and an optional pool size as input parameters. It calculates the nearest neighbors to the query
+    # vector in the FAISS index and returns the top item per category based on the distances
+    # calculated. The function iterates through the nearest neighbors, assigns each item to its
+    # corresponding category, and keeps track of the closest item for each category. It returns a
+    # dictionary where each key represents a category and the corresponding value is the closest item
+    # in that category along with its distance from the query vector. The function stops when it has
+    # found the closest item for three categories: flights, hotels, and experiences.
     q = np.asarray(query_vec, dtype="float32").reshape(1, -1)
+    if q is None:
+        logger.error("Query vector is empty or invalid.")
+        raise ValueError("Query vector is empty or invalid.")
+        
     k = min(pool, len(items))
     D, I = index.search(q, k)
     per_cat = {}
@@ -89,18 +102,18 @@ def top1_per_category(index, items, query_vec, pool=120) -> Dict:
 
 
 
-def topk_per_category(index, items, query_vec, k_per_cat=1, pool=100):
-    """
-    index: FAISS index (built over all items in order)
-    items: list[dict] with 'category'
-    query_vec: 1D numpy array (embedding for the query)
-    k_per_cat: how many to return per category
-    pool: how many total neighbors to fetch before slicing by category
-    """
-    # ensure shape (1, dim)
+def topk_per_category(index, items, query_vec, k_per_cat=3, pool=150):
+    # `topk_per_category` is a function that takes an FAISS index, a list of items, a query vector,
+    # and optional parameters `k_per_cat` and `pool` as input. The function calculates the nearest
+    # neighbors to the query vector in the FAISS index and returns the top k items per category based
+    # on the distances calculated.
     q = np.asarray(query_vec, dtype="float32").reshape(1, -1)
-    # if you built an IndexFlatIP with normalized vectors, normalize q too:
-    # faiss.normalize_L2(q)
+    if q is None:
+        raise ValueError("Query vector is None")
+    if not isinstance(q, np.ndarray):
+        raise TypeError(f"Expected numpy.ndarray, got {type(q)}")
+    if q.size == 0:
+        raise ValueError("Query vector is empty")
 
     # pull a reasonably large pool once
     k = min(pool, len(items))
@@ -114,5 +127,5 @@ def topk_per_category(index, items, query_vec, k_per_cat=1, pool=100):
         # early exit if we’ve collected all categories up to k_per_cat
         if all(len(v) >= k_per_cat for v in per_cat.values()):
             break
-
+    logger.info(f"retrieved objects: {per_cat}")
     return per_cat

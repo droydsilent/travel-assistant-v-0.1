@@ -11,10 +11,12 @@ def test_health():
 def test_travel_assistant_contract(monkeypatch):
     # Patch service to avoid live LLM in CI
     from app import retriever
-    from app.schemas import TravelAdvice
+    from app import schemas
+
+    print(schemas.TravelAdvice)
 
     def fake_generate(_):
-        return TravelAdvice(
+        return schemas.TravelAdvice(
             destination="Tokyo",
             reason="Top food scene in September using seed data.",
             budget="Moderate",

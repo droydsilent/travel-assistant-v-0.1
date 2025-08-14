@@ -6,6 +6,7 @@ BASE = Path(__file__).resolve().parent
 print(f'Base: {BASE}')
 SEED = BASE / "seed"
 
+
 def load_seed() -> Dict[str, List[Dict[str, Any]]]:
     files = {
         "hotels": "hotel_catalogue",
