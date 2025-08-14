@@ -1,3 +1,27 @@
+Instruction to run:
+===================
+
+Please make sure that your .env file is set with the following variables:
+OPENAI_API_KEY=<openai_api_key>
+OPENAI_MODEL=gpt-4o-mini
+EMBEDDING_MODEL=text-embedding-3-small
+INDEX_PATH=database/travel_index.faiss
+METADATA_PATH=database/travel_items.json
+
+To create your own venv please run the following command:
+python3 -m venv virgin-atlantic-genai-travel-assistant
+
+To activate the venv the following command:
+source virgin_atlantic_genai_travel_assistant/bin/activate
+
+Once activated to install the relevant packages please run the following command from the root folder:
+pip install -r requirements.txt 
+
+To start the application run the following command:
+uvicorn main:app --reload
+
+
+
 # VAA GenAI Technical Test — AI Travel Assistant
 
 Welcome to the technical assessment for an AI Software Developer role at VAA.  
