@@ -5,8 +5,8 @@ Please make sure that your .env file is set with the following variables:
 OPENAI_API_KEY=<openai_api_key>
 OPENAI_MODEL=gpt-4o-mini
 EMBEDDING_MODEL=text-embedding-3-small
-INDEX_PATH=database/travel_index.faiss
-METADATA_PATH=database/travel_items.json
+INDEX_PATH=app/database/travel_index.faiss
+METADATA_PATH=app/database/travel_items.json
 
 To create your own venv please run the following command:
 python3 -m venv virgin-atlantic-genai-travel-assistant
