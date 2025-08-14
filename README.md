@@ -1,24 +1,35 @@
-Instructions to run:
+# Instructions to run:
 ===================
 
-Please make sure that your .env file is set with the following variables:
+-Please make sure that your .env file is set with the following variables:
 OPENAI_API_KEY=<openai_api_key>
 OPENAI_MODEL=gpt-4o-mini
 EMBEDDING_MODEL=text-embedding-3-small
 INDEX_PATH=app/database/travel_index.faiss
 METADATA_PATH=app/database/travel_items.json
 
-To create your own venv please run the following command:
+-To create your own venv please run the following command:
 python3 -m venv virgin-atlantic-genai-travel-assistant
 
-To activate the venv the following command:
+-To activate the venv the following command:
 source virgin_atlantic_genai_travel_assistant/bin/activate
 
-Once activated to install the relevant packages please run the following command from the root folder:
+-Once activated to install the relevant packages please run the following command from the root folder:
 pip install -r requirements.txt 
 
-To start the application run the following command:
+-To start the application run the following command:
 uvicorn app.main:app --reload
+
+-To view the documentation please visit:
+http://127.0.0.1:8000/docs
+
+
+Helper Tools:
+- For in code documentation, Mintify Doc Writer is used
+- Some code completeion suggestions from Github Co-Pilot
+- For debugging, Google and ChatGPT was used
+
+
 
 
 

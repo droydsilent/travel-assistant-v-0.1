@@ -178,3 +178,469 @@
     "duration": "Not available"
   }
 }
+2025-08-14 03:43:30,819 - retriever - INFO - Received query: Where should I go for a solo foodie trip to Asia in September?
+2025-08-14 03:43:30,838 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 03:43:30,842 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 03:46:54,779 - retriever - INFO - Received query: Where should I go for a solo foodie trip to Asia in September?
+2025-08-14 03:46:54,795 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 03:46:54,800 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 03:47:38,253 - retriever - INFO - Received query: Where should I go for a solo foodie trip to Asia in September?
+2025-08-14 03:47:38,268 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 03:47:38,272 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 03:48:17,841 - retriever - INFO - Received query: Where should I go for a solo foodie trip to Asia in September?
+2025-08-14 03:48:17,853 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 03:48:17,858 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 03:50:01,520 - retriever - INFO - Received query: Where should I go for a solo foodie trip to Asia in September?
+2025-08-14 03:50:01,539 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 03:50:01,544 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 03:50:22,983 - retriever - INFO - Received query: Where should I go for a solo foodie trip to Asia in September?
+2025-08-14 03:50:23,006 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 03:50:23,010 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 03:52:36,698 - retriever - INFO - Received query: Where should I go for a solo foodie trip to Asia in September?
+2025-08-14 03:52:36,715 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 03:52:36,719 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 03:53:54,349 - retriever - INFO - Received query: Where should I go for a solo foodie trip to Asia in September?
+2025-08-14 03:53:54,363 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 03:53:54,372 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 03:56:40,999 - retriever - INFO - Received query: Where should I go for a solo foodie trip to Asia in September?
+2025-08-14 03:56:41,013 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 03:56:41,017 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 03:57:10,249 - retriever - INFO - Received query: Where should I go for a solo foodie trip to Asia in September?
+2025-08-14 03:57:10,271 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 03:57:10,276 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 03:57:37,822 - retriever - INFO - Received query: A city break with a hotel packed with activities
+2025-08-14 03:57:37,838 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 03:57:37,842 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 03:58:16,937 - retriever - INFO - Received query: A city break with a hotel packed with activities
+2025-08-14 03:58:16,957 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 03:58:16,965 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 04:00:09,794 - retriever - INFO - Received query: A city break with a hotel packed with activities
+2025-08-14 04:00:09,806 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 04:00:09,811 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 04:00:21,250 - retriever - INFO - Received query: A city break with a hotel packed with activities
+2025-08-14 04:00:21,262 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 04:00:21,267 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 04:00:50,218 - retriever - INFO - Received query: A city break with a hotel packed with activities
+2025-08-14 04:00:50,234 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 04:00:50,240 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 04:03:07,861 - retriever - INFO - Received query: Do i need a visa to travel to New York?
+2025-08-14 04:03:54,801 - retriever - INFO - Received query: a place with a great hotel for relaxing
+2025-08-14 04:03:54,811 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 04:03:54,816 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 04:05:25,525 - retriever - INFO - Received query: a place with a great hotel for relaxing
+2025-08-14 04:05:25,546 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 04:05:25,550 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 04:05:25,946 - retriever - INFO - Retriving Query Vector
+2025-08-14 04:07:07,053 - retriever - INFO - Received query: a place with a great hotel for relaxing
+2025-08-14 04:07:07,066 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 04:07:07,074 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 04:07:07,571 - retriever - INFO - Retriving Query Vector
+2025-08-14 04:07:34,333 - retriever - INFO - Received query: a place with a great hotel for relaxing
+2025-08-14 04:07:34,348 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 04:07:34,355 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 04:07:34,852 - retriever - INFO - Retriving Query Vector
+2025-08-14 04:11:50,543 - retriever - INFO - Received query: a place with a great hotel for relaxing
+2025-08-14 04:11:50,558 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 04:11:50,562 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 04:11:51,029 - retriever - INFO - Retriving Query Vector
+2025-08-14 04:14:22,323 - retriever - INFO - Received query: a place with a great hotel for relaxing
+2025-08-14 04:14:22,337 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 04:14:22,341 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 04:14:22,780 - retriever - INFO - Retrieving Query Vector
+2025-08-14 04:16:19,408 - retriever - INFO - Received query: a place with a great hotel for relaxing
+2025-08-14 04:16:19,424 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 04:16:19,428 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 04:16:19,871 - retriever - INFO - Retrieving Query Vector
+2025-08-14 04:18:24,105 - retriever - INFO - Received query: a place with a great hotel for relaxing
+2025-08-14 04:18:24,117 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 04:18:24,121 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 04:18:24,528 - vector_db - INFO - query vector: [ 0.00542828  0.02325986  0.00367353 ... -0.03140374 -0.01287788
+ -0.01559641]
+2025-08-14 04:18:24,529 - retriever - INFO - Retrieving Query Vector
+2025-08-14 04:19:29,446 - retriever - INFO - Received query: a place with a great hotel for relaxing
+2025-08-14 04:19:29,456 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 04:19:29,462 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 04:19:29,904 - vector_db - INFO - query vector: [ 0.00542828  0.02325986  0.00367353 ... -0.03140374 -0.01287788
+ -0.01559641]
+2025-08-14 04:19:29,904 - retriever - INFO - Retrieving Query Vector
+2025-08-14 04:19:29,904 - retriever - INFO - Query vector: [ 0.00542828  0.02325986  0.00367353 ... -0.03140374 -0.01287788
+ -0.01559641]
+2025-08-14 04:19:29,904 - retriever - INFO - Getting resutls from the Vector Database
+2025-08-14 04:19:31,768 - llm - INFO - LLM response: {
+  "destination": "Montego Bay",
+  "reason": "A place with a great hotel for relaxing",
+  "budget": "250.0",
+  "tips": [
+    "Consider booking a spa experience for ultimate relaxation."
+  ],
+  "hotel": null,
+  "flight": null,
+  "experience": {
+    "name": "Luxury Spa & Wellness Retreat",
+    "city": "Montego Bay",
+    "price": 250.0,
+    "duration": "6"
+  }
+}
+2025-08-14 04:20:25,980 - retriever - INFO - Received query: Where should I go for a solo foodie trip to Asia in September?
+2025-08-14 04:20:25,997 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 04:20:26,001 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 04:20:26,399 - vector_db - INFO - query vector: [-0.03662236 -0.02756025  0.0167825  ...  0.0182012   0.02338112
+ -0.03173938]
+2025-08-14 04:20:26,399 - retriever - INFO - Retrieving Query Vector
+2025-08-14 04:20:26,399 - retriever - INFO - Query vector: [-0.03662236 -0.02756025  0.0167825  ...  0.0182012   0.02338112
+ -0.03173938]
+2025-08-14 04:20:26,399 - retriever - INFO - Getting results from the Vector Database
+2025-08-14 04:20:27,986 - llm - INFO - LLM response: {
+  "destination": "Bengaluru",
+  "reason": "Great street food experience for food lovers.",
+  "budget": "100",
+  "tips": [
+    "Try local delicacies at street food stalls.",
+    "Explore different neighborhoods for diverse food options."
+  ],
+  "hotel": null,
+  "flight": null,
+  "experience": {
+    "name": "Gourmet Street Food Safari in Malleshwaram",
+    "city": "Bengaluru",
+    "price": 100.0,
+    "duration": "3"
+  }
+}
+2025-08-14 04:21:04,899 - retriever - INFO - Received query: Where should I go for a solo foodie trip to Asia in September?
+2025-08-14 04:21:04,917 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 04:21:04,921 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 04:21:05,168 - vector_db - INFO - query vector: [-0.03662236 -0.02756025  0.0167825  ...  0.0182012   0.02338112
+ -0.03173938]
+2025-08-14 04:21:05,169 - retriever - INFO - Retrieving Query Vector
+2025-08-14 04:21:05,169 - retriever - INFO - Query vector: [-0.03662236 -0.02756025  0.0167825  ...  0.0182012   0.02338112
+ -0.03173938]
+2025-08-14 04:21:05,169 - retriever - INFO - Getting results from the Vector Database
+2025-08-14 04:21:06,847 - llm - INFO - LLM response: {
+  "destination": "Bengaluru",
+  "reason": "Ideal for a solo foodie trip with diverse street food options.",
+  "budget": "100.0",
+  "tips": [
+    "Explore local markets for authentic flavors.",
+    "Try different street food stalls for a variety of tastes.",
+    "Join food tours to discover hidden gems."
+  ],
+  "hotel": null,
+  "flight": null,
+  "experience": {
+    "name": "Gourmet Street Food Safari in Malleshwaram",
+    "city": "Bengaluru",
+    "price": 100.0,
+    "duration": "3"
+  }
+}
+2025-08-14 04:21:22,800 - retriever - INFO - Received query: Where should I go for a solo foodie trip to Asia in September? also with a nice hotel with a pool
+2025-08-14 04:21:22,814 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 04:21:22,823 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 04:21:24,845 - vector_db - INFO - query vector: [-0.04387074 -0.02661086  0.04576347 ... -0.00473182  0.04152736
+ -0.02931476]
+2025-08-14 04:21:24,845 - retriever - INFO - Retrieving Query Vector
+2025-08-14 04:21:24,845 - retriever - INFO - Query vector: [-0.04387074 -0.02661086  0.04576347 ... -0.00473182  0.04152736
+ -0.02931476]
+2025-08-14 04:21:24,845 - retriever - INFO - Getting results from the Vector Database
+2025-08-14 04:21:27,740 - llm - INFO - LLM response: {
+  "destination": "Mumbai",
+  "reason": "Mumbai is known for its diverse and vibrant food scene, making it a perfect destination for a solo foodie trip.",
+  "budget": "144 per night",
+  "tips": [
+    "Explore local street food for authentic flavors.",
+    "Visit popular restaurants and try regional specialties.",
+    "Don't miss out on food tours to discover hidden gems."
+  ],
+  "hotel": {
+    "name": "The Oberoi, Mumbai",
+    "city": "Mumbai",
+    "price_per_night": 144,
+    "rating": 5.0
+  },
+  "flight": null,
+  "experience": null
+}
+2025-08-14 04:24:48,674 - retriever - INFO - Received query: Where should I go for a solo foodie trip to Asia in September? also with a nice hotel with a pool
+2025-08-14 04:24:48,683 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 04:24:48,688 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 04:24:49,128 - vector_db - INFO - query vector: [-0.04387791 -0.02657014  0.04574841 ... -0.00472696  0.04148908
+ -0.02934209]
+2025-08-14 04:24:49,128 - retriever - INFO - Retrieving Query Vector
+2025-08-14 04:24:49,128 - retriever - INFO - Query vector: [-0.04387791 -0.02657014  0.04574841 ... -0.00472696  0.04148908
+ -0.02934209]
+2025-08-14 04:24:49,128 - retriever - INFO - Getting results from the Vector Database
+2025-08-14 04:24:54,430 - llm - INFO - LLM response: {
+  "destination": "Mumbai",
+  "reason": "Mumbai is a vibrant city known for its diverse and rich culinary scene, making it perfect for a solo foodie trip.",
+  "budget": "Moderate to High",
+  "tips": [
+    "Explore local street food in areas like Juhu and Colaba.",
+    "Visit popular restaurants for authentic Indian cuisine.",
+    "Don't miss out on trying local specialties like Vada Pav and Pav Bhaji."
+  ],
+  "hotel": {
+    "name": "The Taj Mahal Palace & Tower",
+    "city": "Mumbai",
+    "price_per_night": 183,
+    "rating": 5.0
+  },
+  "flight": null,
+  "experience": null
+}
+2025-08-14 04:25:30,905 - retriever - INFO - Received query: can you find me a hotel, flight and fun activities in New york?
+2025-08-14 04:25:30,918 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 04:25:30,926 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 04:25:31,285 - vector_db - INFO - query vector: [-0.03273946 -0.03047447 -0.02216949 ... -0.01847458 -0.02079677
+  0.00672063]
+2025-08-14 04:25:31,285 - retriever - INFO - Retrieving Query Vector
+2025-08-14 04:25:31,285 - retriever - INFO - Query vector: [-0.03273946 -0.03047447 -0.02216949 ... -0.01847458 -0.02079677
+  0.00672063]
+2025-08-14 04:25:31,285 - retriever - INFO - Getting results from the Vector Database
+2025-08-14 04:25:33,748 - llm - INFO - LLM response: {
+  "destination": "New York",
+  "reason": "Looking for a hotel, flight, and fun activities.",
+  "budget": "Not specified",
+  "tips": [
+    "Explore Central Park for a relaxing day.",
+    "Visit the Metropolitan Museum of Art for a cultural experience.",
+    "Check out Times Square for vibrant nightlife."
+  ],
+  "hotel": {
+    "name": "Virgin Hotels New York City",
+    "city": "New York",
+    "price_per_night": 357,
+    "rating": 5.0
+  },
+  "flight": null,
+  "experience": null
+}
+2025-08-14 04:30:55,150 - retriever - INFO - Received query: can you find me a hotel, flight and fun activities in New york?
+2025-08-14 04:30:55,160 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 04:30:55,164 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 04:30:55,562 - vector_db - INFO - query vector: [-0.03273946 -0.03047447 -0.02216949 ... -0.01847458 -0.02079677
+  0.00672063]
+2025-08-14 04:30:55,563 - retriever - INFO - Retrieving Query Vector
+2025-08-14 04:30:55,563 - retriever - INFO - Query vector: [-0.03273946 -0.03047447 -0.02216949 ... -0.01847458 -0.02079677
+  0.00672063]
+2025-08-14 04:30:55,563 - retriever - INFO - Getting results from the Vector Database
+2025-08-14 04:30:58,891 - llm - INFO - LLM response: {
+  "destination": "New York",
+  "reason": "Looking for a hotel, flight, and fun activities.",
+  "budget": "Not specified",
+  "tips": [
+    "Explore Central Park for a relaxing day.",
+    "Visit the Metropolitan Museum of Art for a cultural experience.",
+    "Check out Times Square for vibrant nightlife."
+  ],
+  "hotel": {
+    "name": "Virgin Hotels New York City",
+    "city": "New York",
+    "price_per_night": 357,
+    "rating": 5.0
+  },
+  "flight": null,
+  "experience": null
+}
+2025-08-14 04:31:50,930 - retriever - INFO - Received query: can you find me a hotel, flight and fun activities in New york?
+2025-08-14 04:31:50,945 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 04:31:50,949 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 04:31:51,475 - vector_db - INFO - query vector: [-0.03273946 -0.03047447 -0.02216949 ... -0.01847458 -0.02079677
+  0.00672063]
+2025-08-14 04:31:51,475 - retriever - INFO - Retrieving Query Vector
+2025-08-14 04:31:51,475 - retriever - INFO - Query vector: [-0.03273946 -0.03047447 -0.02216949 ... -0.01847458 -0.02079677
+  0.00672063]
+2025-08-14 04:31:51,475 - retriever - INFO - Getting results from the Vector Database
+2025-08-14 04:31:54,586 - llm - INFO - LLM response: {
+  "destination": "New York",
+  "reason": "Looking for a hotel, flight, and fun activities.",
+  "budget": "Not specified",
+  "tips": [
+    "Explore Central Park for a relaxing day.",
+    "Visit the Metropolitan Museum of Art for a cultural experience.",
+    "Check out Times Square for entertainment and dining options."
+  ],
+  "hotel": {
+    "name": "Virgin Hotels New York City",
+    "city": "New York",
+    "price_per_night": 357,
+    "rating": 5.0
+  },
+  "flight": null,
+  "experience": null
+}
+2025-08-14 04:32:58,405 - retriever - INFO - Received query: can you find me a hotel, flight and fun activities in New york?
+2025-08-14 04:32:58,416 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 04:32:58,420 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 04:32:59,266 - vector_db - INFO - query vector: [-0.03298272 -0.03058106 -0.02228964 ... -0.01827545 -0.02072285
+  0.0067761 ]
+2025-08-14 04:32:59,267 - retriever - INFO - Retrieving Query Vector
+2025-08-14 04:32:59,267 - retriever - INFO - Query vector: [-0.03298272 -0.03058106 -0.02228964 ... -0.01827545 -0.02072285
+  0.0067761 ]
+2025-08-14 04:32:59,267 - retriever - INFO - Getting results from the Vector Database
+2025-08-14 04:33:01,550 - llm - INFO - LLM response: {
+  "destination": "New York",
+  "reason": "Looking for a hotel, flight, and fun activities.",
+  "budget": "Not specified",
+  "tips": [
+    "Explore Central Park for a relaxing day.",
+    "Visit Times Square for the vibrant atmosphere.",
+    "Check out local museums like the Met or MoMA."
+  ],
+  "hotel": {
+    "name": "Virgin Hotels New York City",
+    "city": "New York",
+    "price_per_night": 357,
+    "rating": 5.0
+  },
+  "flight": null,
+  "experience": null
+}
+2025-08-14 04:34:16,784 - retriever - INFO - Received query: can you find me a hotel, flight and fun activities in New york?
+2025-08-14 04:34:16,798 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 04:34:16,802 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 04:34:17,349 - vector_db - INFO - query vector: [-0.03273946 -0.03047447 -0.02216949 ... -0.01847458 -0.02079677
+  0.00672063]
+2025-08-14 04:34:17,349 - retriever - INFO - Retrieving Query Vector
+2025-08-14 04:34:17,350 - retriever - INFO - Query vector: [-0.03273946 -0.03047447 -0.02216949 ... -0.01847458 -0.02079677
+  0.00672063]
+2025-08-14 04:34:17,350 - retriever - INFO - Getting results from the Vector Database
+2025-08-14 04:34:17,379 - vector_db - INFO - retrieved objects: defaultdict(<class 'list'>, {'hotels': [{'item': {'id': '704f899c-2e36-40be-83eb-097e82188c33', 'category': 'hotels', 'text': 'name: New York New York - city: Las Vegas - price_per_night: 287 - rating: 3.5 - amenities: Internet Access,Restaurant,Wheelchair access,Swimming Pool,Bar,Evening Entertainment,Casino,Room Service,Safety Deposit Box,Close to City Centre,Laundry Service'}, 'distance': 0.9985327124595642}, {'item': {'id': '8a66bee6-6326-4eb1-a983-f63774f1a0f2', 'category': 'hotels', 'text': 'name: New York New York - city: Las Vegas - price_per_night: 66 - rating: 3.5 - amenities: Internet Access,Restaurant,Wheelchair access,Swimming Pool,Bar,Evening Entertainment,Casino,Room Service,Safety Deposit Box,Close to City Centre,Laundry Service'}, 'distance': 1.018640160560608}, {'item': {'id': 'fc2c5b0b-0348-420a-84af-d2d59769e7d6', 'category': 'hotels', 'text': 'name: Virgin Hotels New York City - city: New York - price_per_night: 357 - rating: 5.0 - amenities: Internet Access,Restaurant,Swimming Pool,Bar,Room Service,Night Club'}, 'distance': 1.0215247869491577}]})
+2025-08-14 04:34:20,240 - llm - INFO - LLM response: {
+  "destination": "New York",
+  "reason": "Looking for a hotel, flight, and fun activities.",
+  "budget": "Not specified",
+  "tips": [
+    "Explore Central Park for a relaxing day.",
+    "Visit the Metropolitan Museum of Art for a cultural experience.",
+    "Check out Times Square for entertainment and dining options."
+  ],
+  "hotel": {
+    "name": "Virgin Hotels New York City",
+    "city": "New York",
+    "price_per_night": 357,
+    "rating": 5.0
+  },
+  "flight": null,
+  "experience": null
+}
+2025-08-14 04:35:23,558 - retriever - INFO - Received query: a flight to london
+2025-08-14 04:35:23,579 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 04:35:23,586 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 04:35:23,795 - vector_db - INFO - query vector: [-0.02368269  0.00033095  0.01405508 ...  0.00252188 -0.00375293
+ -0.00171243]
+2025-08-14 04:35:23,796 - retriever - INFO - Retrieving Query Vector
+2025-08-14 04:35:23,796 - retriever - INFO - Query vector: [-0.02368269  0.00033095  0.01405508 ...  0.00252188 -0.00375293
+ -0.00171243]
+2025-08-14 04:35:23,796 - retriever - INFO - Getting results from the Vector Database
+2025-08-14 04:35:23,798 - vector_db - INFO - retrieved objects: defaultdict(<class 'list'>, {'flights': [{'item': {'id': '2025-07-18-LHR-VS-0130', 'category': 'flights', 'text': 'airline: Virgin Atlantic - from_airport: Tampa - to_airport: London - duration: PT9H55M - date: 2025-07-18 - price: 297'}, 'distance': 0.8517589569091797}, {'item': {'id': '2025-08-18-LHR-VS-0022', 'category': 'flights', 'text': 'airline: Virgin Atlantic - from_airport: Washington - to_airport: London - duration: PT8H30M - date: 2025-08-18 - price: 1496'}, 'distance': 0.8518456816673279}, {'item': {'id': '2025-07-10-LHR-VS-0142', 'category': 'flights', 'text': 'airline: Virgin Atlantic - from_airport: Los Angeles - to_airport: London - duration: PT11H30M - date: 2025-07-10 - price: 1499'}, 'distance': 0.8546020984649658}]})
+2025-08-14 04:35:26,304 - llm - INFO - LLM response: {
+  "destination": "London",
+  "reason": "Looking for a flight to London.",
+  "budget": "Not specified",
+  "tips": [
+    "Check for the best flight deals in advance.",
+    "Consider flexible travel dates for better prices."
+  ],
+  "hotel": null,
+  "flight": {
+    "airline": "Virgin Atlantic",
+    "from_airport": "Tampa",
+    "to_airport": "London",
+    "price": 297,
+    "duration": "PT9H55M",
+    "date": "2025-07-18"
+  },
+  "experience": null
+}
+2025-08-14 04:35:49,180 - retriever - INFO - Received query: a flight to london and a nice hotel
+2025-08-14 04:35:49,200 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 04:35:49,205 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 04:35:49,415 - vector_db - INFO - query vector: [-0.02869689 -0.02814317 -0.00386397 ... -0.0363526   0.0031628
+ -0.00404754]
+2025-08-14 04:35:49,415 - retriever - INFO - Retrieving Query Vector
+2025-08-14 04:35:49,415 - retriever - INFO - Query vector: [-0.02869689 -0.02814317 -0.00386397 ... -0.0363526   0.0031628
+ -0.00404754]
+2025-08-14 04:35:49,416 - retriever - INFO - Getting results from the Vector Database
+2025-08-14 04:35:49,417 - vector_db - INFO - retrieved objects: defaultdict(<class 'list'>, {'flights': [{'item': {'id': '2025-07-07-LHR-VS-0156', 'category': 'flights', 'text': 'airline: Virgin Atlantic - from_airport: Las Vegas - to_airport: London - duration: PT10H55M - date: 2025-07-07 - price: 899'}, 'distance': 1.040514349937439}, {'item': {'id': '2025-08-06-LHR-VS-0156', 'category': 'flights', 'text': 'airline: Virgin Atlantic - from_airport: Las Vegas - to_airport: London - duration: PT10H55M - date: 2025-08-06 - price: 500'}, 'distance': 1.044965386390686}, {'item': {'id': '2025-08-24-LHR-VS-0156', 'category': 'flights', 'text': 'airline: Virgin Atlantic - from_airport: Las Vegas - to_airport: London - duration: PT10H55M - date: 2025-08-24 - price: 490'}, 'distance': 1.045668601989746}]})
+2025-08-14 04:35:51,800 - llm - INFO - LLM response: {
+  "destination": "London",
+  "reason": "Looking for a flight and a nice hotel.",
+  "budget": "Not specified",
+  "tips": [
+    "Book your flight in advance for better prices.",
+    "Consider the location of the hotel for convenience."
+  ],
+  "hotel": null,
+  "flight": {
+    "airline": "Virgin Atlantic",
+    "from_airport": "Las Vegas",
+    "to_airport": "London",
+    "price": 500,
+    "duration": "PT10H55M",
+    "date": "2025-08-06"
+  },
+  "experience": null
+}
+2025-08-14 05:07:23,355 - retriever - INFO - Received query: a flight to london and a nice hotel
+2025-08-14 05:07:23,370 - vector_db - INFO - Loaded index with 4778 items
+2025-08-14 05:07:23,375 - retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 05:07:23,901 - vector_db - INFO - query vector: [-0.02869689 -0.02814317 -0.00386397 ... -0.0363526   0.0031628
+ -0.00404754]
+2025-08-14 05:07:23,902 - retriever - INFO - Retrieving Query Vector
+2025-08-14 05:07:23,902 - retriever - INFO - Query vector: [-0.02869689 -0.02814317 -0.00386397 ... -0.0363526   0.0031628
+ -0.00404754]
+2025-08-14 05:07:23,902 - retriever - INFO - Getting results from the Vector Database
+2025-08-14 05:07:23,912 - vector_db - INFO - retrieved objects: defaultdict(<class 'list'>, {'flights': [{'item': {'id': '2025-07-07-LHR-VS-0156', 'category': 'flights', 'text': 'airline: Virgin Atlantic - from_airport: Las Vegas - to_airport: London - duration: PT10H55M - date: 2025-07-07 - price: 899'}, 'distance': 1.040514349937439}, {'item': {'id': '2025-08-06-LHR-VS-0156', 'category': 'flights', 'text': 'airline: Virgin Atlantic - from_airport: Las Vegas - to_airport: London - duration: PT10H55M - date: 2025-08-06 - price: 500'}, 'distance': 1.044965386390686}, {'item': {'id': '2025-08-24-LHR-VS-0156', 'category': 'flights', 'text': 'airline: Virgin Atlantic - from_airport: Las Vegas - to_airport: London - duration: PT10H55M - date: 2025-08-24 - price: 490'}, 'distance': 1.045668601989746}]})
+2025-08-14 05:07:27,887 - llm - INFO - LLM response: {
+  "destination": "London",
+  "reason": "Looking for a flight and a nice hotel.",
+  "budget": "Not specified",
+  "tips": [
+    "Book your flight in advance for better prices.",
+    "Check for hotel deals online."
+  ],
+  "hotel": null,
+  "flight": {
+    "airline": "Virgin Atlantic",
+    "from_airport": "Las Vegas",
+    "to_airport": "London",
+    "price": 500,
+    "duration": "PT10H55M",
+    "date": "2025-08-06"
+  },
+  "experience": null
+}
+2025-08-14 05:24:27,216 - app.retriever - INFO - Received query: a flight to london and a nice hotel
+2025-08-14 05:24:53,861 - app.retriever - INFO - Received query: a flight to london and a nice hotel
+2025-08-14 05:25:28,976 - app.retriever - INFO - Received query: a flight to london and a nice hotel
+2025-08-14 05:25:43,683 - app.retriever - INFO - Received query: a flight to london and a nice hotel
+2025-08-14 05:25:43,702 - app.vector_db - INFO - Loaded index with 4778 items
+2025-08-14 05:25:43,706 - app.retriever - INFO - Index loaded with 4778 items, travel items loaded with 4778 records.
+2025-08-14 05:25:44,268 - app.vector_db - INFO - query vector: [-0.02869689 -0.02814317 -0.00386397 ... -0.0363526   0.0031628
+ -0.00404754]
+2025-08-14 05:25:44,268 - app.retriever - INFO - Retrieving Query Vector
+2025-08-14 05:25:44,269 - app.retriever - INFO - Query vector: [-0.02869689 -0.02814317 -0.00386397 ... -0.0363526   0.0031628
+ -0.00404754]
+2025-08-14 05:25:44,269 - app.retriever - INFO - Getting results from the Vector Database
+2025-08-14 05:25:44,278 - app.vector_db - INFO - retrieved objects: defaultdict(<class 'list'>, {'flights': [{'item': {'id': '2025-07-07-LHR-VS-0156', 'category': 'flights', 'text': 'airline: Virgin Atlantic - from_airport: Las Vegas - to_airport: London - duration: PT10H55M - date: 2025-07-07 - price: 899'}, 'distance': 1.040514349937439}, {'item': {'id': '2025-08-06-LHR-VS-0156', 'category': 'flights', 'text': 'airline: Virgin Atlantic - from_airport: Las Vegas - to_airport: London - duration: PT10H55M - date: 2025-08-06 - price: 500'}, 'distance': 1.044965386390686}, {'item': {'id': '2025-08-24-LHR-VS-0156', 'category': 'flights', 'text': 'airline: Virgin Atlantic - from_airport: Las Vegas - to_airport: London - duration: PT10H55M - date: 2025-08-24 - price: 490'}, 'distance': 1.045668601989746}]})
+2025-08-14 05:25:47,979 - app.llm - INFO - LLM response: {
+  "destination": "London",
+  "reason": "Looking for a flight and a nice hotel.",
+  "budget": "Not specified",
+  "tips": [
+    "Book your flight in advance for better prices.",
+    "Consider the location of the hotel for easy access to attractions."
+  ],
+  "hotel": null,
+  "flight": {
+    "airline": "Virgin Atlantic",
+    "from_airport": "Las Vegas",
+    "to_airport": "London",
+    "price": 500,
+    "duration": "PT10H55M",
+    "date": "2025-08-06"
+  },
+  "experience": null
+}
